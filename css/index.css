@@ -344,3 +344,35 @@ footer nav a {
   color: white;
   text-decoration: none;
 }
+.strategyhowwework {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 2.5%;
+}
+.placesweworkcollaboration {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 2.5%;
+}
+.strategy {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.howwework {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.placeswework {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.collaboration {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
