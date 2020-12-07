@@ -140,6 +140,7 @@ body {
 .headerimage {
   display: flex;
   justify-content: center;
+  margin-bottom: 5%;
 }
 nav {
   display: flex;
@@ -212,15 +213,9 @@ p {
   align-items: center;
   justify-content: center;
 }
+
 .middle-content .boxes .box1 {
-  width: 12.5%;
-  height: 100px;
   background: teal;
-  margin: 20px 2.5%;
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 .middle-content .boxes .box2 {
   width: 12.5%;
